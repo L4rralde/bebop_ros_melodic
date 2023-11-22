@@ -1,0 +1,1 @@
+# Basic libraries to manipulate the parrot bebop 2 with ros melodic
